@@ -1,6 +1,6 @@
 Meet Demand At Points System Developed with Unity 2022
 
-I. Implemented Mechanics:
+I. Implementation:
 
 - All data and calculations were done using Scriptable Objects.
 - Visualization was implemented on Game Objects.
